@@ -1,4 +1,4 @@
-# Site Monrise Responsivo
+# Sistema em PHP / Mysql
 
 Sistema simples de CRUD usando PHP e Mysql, criado para efeito de estudo.
 
